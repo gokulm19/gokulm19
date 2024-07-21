@@ -7,7 +7,7 @@ Hello,I'm Gokul M , Welcome to my profile.
 - 🎓 Currently pursuing my Bachelor's degree in Technology in the field of Artificial Intelligence and Data Science at Kongunadu College of Engineering and Technology.
 - 🏫 Completed my schooling at St joseph Matriculation Higher Secondary School, Thirumayam, Pudukkottai.
 
-##Passionate about
+## Passionate about
 - 💻 Data Science,Enjoy to exploring machine learning algorithms
 - 🤔 And also enjoy to exploring in the desinging fields and always like desinging
 
