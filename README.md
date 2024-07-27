@@ -9,7 +9,7 @@ Hello,I'm Gokul M , Welcome to my profile.
 
 ## Passionate about
 - 💻 Data Science,Enjoy to exploring machine learning algorithms
-- 🤔 And also enjoy to exploring in the desinging fields and always like desinging
+- 🤔 And also enjoy to exploring in the designing fields and always like designing
 
 
 ## I code in
