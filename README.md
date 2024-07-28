@@ -1,4 +1,4 @@
-![logo](https://github.com/gokulm19/gokulm19/blob/a2452f2b34deb12c57b8b94c7f5b9e00a1f1367a/Banner.jpg)
+![logo](https://github.com/gokulm19/gokulm19/blob/6e7ebb059af92d01023210a23bdd365e94bf3d19/Banner%20Github.jpg)
 # Hey 👋 It's Gokul M
 
 Hello,I'm Gokul M , Welcome to my profile. 
