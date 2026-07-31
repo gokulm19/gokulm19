@@ -1,10 +1,10 @@
 ![logo]()
 <h1 align="center">Hi 👋, I'm Gokul M </h1>
-<h3 align="center">A passionate Designer </h3>
+
 
 
 ## About Me
-- I am a passionate **UI/UX Designer**, **Graphic Designer**, and **Web Designer** with a knack for creating visually appealing and user-centric designs. My focus is on delivering elegant, clean, and responsive designs that provide an intuitive user experience.
+- I am a passionate **Java developer**, **Software Developer**, and **Data Analyst**.
 
 
 ## Education
