@@ -1,4 +1,4 @@
-![logo](https://github.com/gokulm19/gokulm19/blob/6e7ebb059af92d01023210a23bdd365e94bf3d19/Banner%20Github.jpg)
+![logo]()
 <h1 align="center">Hi 👋, I'm Gokul M </h1>
 <h3 align="center">A passionate Designer </h3>
 
